@@ -1,0 +1,187 @@
+2022-01-27 19:57:20,818  INFO [main] BaseClass:28 - reading a property file for browser
+2022-01-27 19:57:20,823  INFO [main] BaseClass:30 - browser name is chrome
+2022-01-27 19:57:28,794  INFO [main] BaseClass:33 - chrome browser opened
+2022-01-27 19:57:30,665  INFO [main] BaseClass:43 - maximising browser window
+2022-01-27 19:57:30,695  INFO [main] BaseClass:46 - applying implisit and pageload waits
+2022-01-27 19:57:30,696  INFO [main] BaseClass:51 - initilizing extent report
+2022-01-27 19:57:31,380  INFO [main] BaseClass:54 - extent report to be saved in target folder
+2022-01-27 19:57:33,722 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:33,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-01-27 19:57:33,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-01-27 19:57:33,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-01-27 19:57:33,730 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-01-27 19:57:33,965 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:33,966 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-01-27 19:57:33,967 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-01-27 19:57:33,967 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-01-27 19:57:33,969 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-01-27 19:57:34,623 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,624 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-01-27 19:57:34,625 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-01-27 19:57:34,627 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-01-27 19:57:34,627 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-01-27 19:57:34,663 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-01-27 19:57:34,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-01-27 19:57:34,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-01-27 19:57:34,665 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-01-27 19:57:34,668 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-01-27 19:57:34,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-01-27 19:57:34,670 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-01-27 19:57:34,670 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-01-27 19:57:34,675 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-01-27 19:57:34,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-01-27 19:57:34,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-01-27 19:57:34,680 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-01-27 19:57:34,693 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-27 19:57:34,694 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2022-01-27 19:57:34,696 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-01-27 19:57:34,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-01-27 19:57:34,698 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-01-27 19:57:34,719 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,720 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-01-27 19:57:34,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-01-27 19:57:34,722 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-01-27 19:57:34,723 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-01-27 19:57:34,730 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,731 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-01-27 19:57:34,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-01-27 19:57:34,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-01-27 19:57:34,733 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-01-27 19:57:34,735 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-01-27 19:57:34,737 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-01-27 19:57:34,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-01-27 19:57:34,738 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-01-27 19:57:34,751 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-01-27 19:57:34,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-01-27 19:57:34,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-01-27 19:57:34,754 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-01-27 19:57:34,783 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-01-27 19:57:34,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-01-27 19:57:34,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-01-27 19:57:34,789 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-01-27 19:57:34,809 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,810 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2022-01-27 19:57:34,811 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-01-27 19:57:34,812 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-01-27 19:57:34,813 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-01-27 19:57:34,818 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,819 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2022-01-27 19:57:34,820 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-01-27 19:57:34,821 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-01-27 19:57:34,822 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-01-27 19:57:34,869 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2022-01-27 19:57:34,871 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-01-27 19:57:34,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-01-27 19:57:34,873 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-01-27 19:57:34,876 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,877 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2022-01-27 19:57:34,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-01-27 19:57:34,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-01-27 19:57:34,879 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-01-27 19:57:34,880 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2022-01-27 19:57:34,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-01-27 19:57:34,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-01-27 19:57:34,882 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-01-27 19:57:34,884 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-01-27 19:57:34,886 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-01-27 19:57:34,887 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-01-27 19:57:34,888 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-01-27 19:57:34,987 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-01-27 19:57:34,989 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-01-27 19:57:34,990 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-01-27 19:57:34,990 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-01-27 19:57:34,995 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-27 19:57:34,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-01-27 19:57:34,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-01-27 19:57:34,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-01-27 19:57:34,998 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAM/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-01-27 21:02:12,395  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:05:15,210  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:05:15,214  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 21:05:15,214  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 21:05:15,216  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 21:05:27,525  INFO [main] BaseClass:43 - initalizing extent report
+2022-01-27 21:05:29,199  INFO [main] BaseClass:32 - executing login test
+2022-01-27 21:05:29,348  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 21:09:57,823  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:09:57,827  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 21:09:57,827  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 21:09:57,829  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 21:10:02,008  INFO [main] BaseClass:43 - initalizing extent report
+2022-01-27 21:10:02,578  INFO [main] BaseClass:32 - executing login test
+2022-01-27 21:10:02,653  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 21:10:52,135  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:10:52,139  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 21:10:52,139  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 21:10:52,141  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 21:10:56,162  INFO [main] BaseClass:43 - initalizing extent report
+2022-01-27 21:10:56,693  INFO [main] BaseClass:32 - executing login test
+2022-01-27 21:10:56,750  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 21:30:01,642  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:30:01,664  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 21:30:01,664  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 21:30:01,666  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 21:30:14,698  INFO [main] BaseClass:47 - initalizing extent report
+2022-01-27 21:30:15,781  INFO [main] BaseClass:32 - executing login test
+2022-01-27 21:30:17,111  INFO [main] BaseClass:34 - login test passed
+2022-01-27 21:30:17,152  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 21:53:24,734  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:53:24,751  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 21:53:24,751  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 21:53:24,753  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 21:53:36,091  INFO [main] BaseClass:47 - initalizing extent report
+2022-01-27 21:53:36,879  INFO [main] BaseClass:32 - executing login test
+2022-01-27 21:53:37,770  INFO [main] BaseClass:34 - login test passed
+2022-01-27 21:53:37,787  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 21:57:51,419  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 21:57:51,423  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 21:57:51,423  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 21:57:51,425  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 21:57:58,122  INFO [main] BaseClass:47 - initializing extent report
+2022-01-27 21:57:59,005  INFO [main] BaseClass:32 - executing login test
+2022-01-27 21:57:59,732  INFO [main] BaseClass:34 - login test passed
+2022-01-27 21:57:59,747  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 22:00:36,998  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 22:00:37,002  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 22:00:37,002  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 22:00:37,004  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 22:00:45,311  INFO [main] BaseClass:47 - initializing extent report
+2022-01-27 22:00:46,260  INFO [main] BaseClass:32 - executing login test
+2022-01-27 22:00:46,930  INFO [main] BaseClass:34 - login test passed
+2022-01-27 22:00:46,942  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 22:44:07,818  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 22:44:07,822  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 22:44:07,823  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 22:44:07,824  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 22:44:17,066  INFO [main] BaseClass:47 - initializing extent report
+2022-01-27 22:44:17,844  INFO [main] BaseClass:32 - executing login test
+2022-01-27 22:44:18,631  INFO [main] BaseClass:34 - login test passed
+2022-01-27 22:44:18,646  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 22:45:58,178  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 22:45:58,183  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 22:45:58,184  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 22:45:58,187  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 22:46:10,856  INFO [main] BaseClass:47 - initializing extent report
+2022-01-27 22:46:12,690  INFO [main] BaseClass:32 - executing login test
+2022-01-27 22:46:13,513  INFO [main] BaseClass:34 - login test passed
+2022-01-27 22:46:13,527  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 22:51:32,147  INFO [main] BaseClass:19 - inside beforesuite
+2022-01-27 22:51:32,152  INFO [main] BaseClass:32 - browser initialization started
+2022-01-27 22:51:32,152  INFO [main] BaseClass:33 - reading property file for the key browser
+2022-01-27 22:51:32,153  INFO [main] BaseClass:36 - initializing chrome browser
+2022-01-27 22:51:40,456  INFO [main] BaseClass:47 - initializing extent report
+2022-01-27 22:51:41,245  INFO [main] BaseClass:32 - executing login test
+2022-01-27 22:51:41,884  INFO [main] BaseClass:34 - login test passed
+2022-01-27 22:51:41,916  INFO [main] BaseClass:39 - executing fail test
+2022-01-27 22:51:41,960  INFO [main] BaseClass:54 - capturing screenshot for failed testcase
